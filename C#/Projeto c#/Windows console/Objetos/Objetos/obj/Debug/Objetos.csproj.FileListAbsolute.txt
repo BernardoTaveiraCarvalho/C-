@@ -1,0 +1,7 @@
+C:\Users\camin\source\repos\Objetos\Objetos\bin\Debug\Objetos.exe.config
+C:\Users\camin\source\repos\Objetos\Objetos\bin\Debug\Objetos.exe
+C:\Users\camin\source\repos\Objetos\Objetos\bin\Debug\Objetos.pdb
+C:\Users\camin\source\repos\Objetos\Objetos\obj\Debug\Objetos.csproj.AssemblyReference.cache
+C:\Users\camin\source\repos\Objetos\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\camin\source\repos\Objetos\Objetos\obj\Debug\Objetos.exe
+C:\Users\camin\source\repos\Objetos\Objetos\obj\Debug\Objetos.pdb

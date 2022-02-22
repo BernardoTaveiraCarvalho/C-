@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ler Ficheiros 3/1.0.0": {
+        "runtime": {
+          "Ler Ficheiros 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ler Ficheiros 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

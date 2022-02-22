@@ -1,0 +1,16 @@
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\obj\Debug\net5.0\Ler Ficheiros 3.csprojAssemblyReference.cache
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\obj\Debug\net5.0\Ler Ficheiros 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\obj\Debug\net5.0\Ler Ficheiros 3.AssemblyInfoInputs.cache
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\obj\Debug\net5.0\Ler Ficheiros 3.AssemblyInfo.cs
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\obj\Debug\net5.0\Ler Ficheiros 3.csproj.CoreCompileInputs.cache
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\bin\Debug\net5.0\Ler Ficheiros 3.exe
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\bin\Debug\net5.0\Ler Ficheiros 3.deps.json
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\bin\Debug\net5.0\Ler Ficheiros 3.runtimeconfig.json
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\bin\Debug\net5.0\Ler Ficheiros 3.runtimeconfig.dev.json
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\bin\Debug\net5.0\Ler Ficheiros 3.dll
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\bin\Debug\net5.0\ref\Ler Ficheiros 3.dll
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\bin\Debug\net5.0\Ler Ficheiros 3.pdb
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\obj\Debug\net5.0\Ler Ficheiros 3.dll
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\obj\Debug\net5.0\ref\Ler Ficheiros 3.dll
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\obj\Debug\net5.0\Ler Ficheiros 3.pdb
+C:\Users\T0121075\source\repos\Ler Ficheiros 3\obj\Debug\net5.0\Ler Ficheiros 3.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\T0121075\source\repos\Classes ruben\obj\Debug\Classes ruben.csprojAssemblyReference.cache
+C:\Users\T0121075\source\repos\Classes ruben\obj\Debug\Classes ruben.csproj.CoreCompileInputs.cache
+C:\Users\T0121075\source\repos\Classes ruben\bin\Debug\Classes ruben.exe.config
+C:\Users\T0121075\source\repos\Classes ruben\bin\Debug\Classes ruben.exe
+C:\Users\T0121075\source\repos\Classes ruben\bin\Debug\Classes ruben.pdb
+C:\Users\T0121075\source\repos\Classes ruben\obj\Debug\Classes ruben.exe
+C:\Users\T0121075\source\repos\Classes ruben\obj\Debug\Classes ruben.pdb

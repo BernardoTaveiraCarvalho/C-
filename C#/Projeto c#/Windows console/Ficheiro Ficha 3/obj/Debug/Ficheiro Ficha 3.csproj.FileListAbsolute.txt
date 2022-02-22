@@ -1,0 +1,7 @@
+C:\Users\T0121075\source\repos\Ficheiro Ficha 3\bin\Debug\Ficheiro Ficha 3.exe.config
+C:\Users\T0121075\source\repos\Ficheiro Ficha 3\bin\Debug\Ficheiro Ficha 3.exe
+C:\Users\T0121075\source\repos\Ficheiro Ficha 3\bin\Debug\Ficheiro Ficha 3.pdb
+C:\Users\T0121075\source\repos\Ficheiro Ficha 3\obj\Debug\Ficheiro Ficha 3.csprojAssemblyReference.cache
+C:\Users\T0121075\source\repos\Ficheiro Ficha 3\obj\Debug\Ficheiro Ficha 3.csproj.CoreCompileInputs.cache
+C:\Users\T0121075\source\repos\Ficheiro Ficha 3\obj\Debug\Ficheiro Ficha 3.exe
+C:\Users\T0121075\source\repos\Ficheiro Ficha 3\obj\Debug\Ficheiro Ficha 3.pdb

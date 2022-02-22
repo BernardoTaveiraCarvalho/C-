@@ -1,0 +1,32 @@
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\bin\Debug\netcoreapp3.1\5412_Ficha1.exe
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\bin\Debug\netcoreapp3.1\5412_Ficha1.dll
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\_5412_Ficha1.Form1.resources
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\_5412_Ficha1.Properties.Resources.resources
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.csproj.GenerateResource.cache
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.AssemblyInfoInputs.cache
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.AssemblyInfo.cs
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.csproj.CoreCompileInputs.cache
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.dll
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.pdb
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.csprojAssemblyReference.cache
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\bin\Debug\netcoreapp3.1\5412_Ficha1.deps.json
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\bin\Debug\netcoreapp3.1\5412_Ficha1.runtimeconfig.json
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\bin\Debug\netcoreapp3.1\5412_Ficha1.runtimeconfig.dev.json
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\bin\Debug\netcoreapp3.1\5412_Ficha1.pdb
+C:\Users\T0121075\Desktop\Projeto c#\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.genruntimeconfig.cache
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\bin\Debug\netcoreapp3.1\5412_Ficha1.exe
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\bin\Debug\netcoreapp3.1\5412_Ficha1.deps.json
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\bin\Debug\netcoreapp3.1\5412_Ficha1.runtimeconfig.json
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\bin\Debug\netcoreapp3.1\5412_Ficha1.runtimeconfig.dev.json
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\bin\Debug\netcoreapp3.1\5412_Ficha1.dll
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\bin\Debug\netcoreapp3.1\5412_Ficha1.pdb
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.csprojAssemblyReference.cache
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\_5412_Ficha1.Form1.resources
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\_5412_Ficha1.Properties.Resources.resources
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.csproj.GenerateResource.cache
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.AssemblyInfoInputs.cache
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.AssemblyInfo.cs
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.csproj.CoreCompileInputs.cache
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.dll
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.pdb
+C:\Users\T0121075\Downloads\5412_Ficha1\5412_Ficha1\5412_Ficha1\obj\Debug\netcoreapp3.1\5412_Ficha1.genruntimeconfig.cache

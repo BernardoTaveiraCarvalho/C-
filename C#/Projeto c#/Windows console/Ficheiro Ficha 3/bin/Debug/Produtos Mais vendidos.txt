@@ -1,0 +1,2 @@
+O produto monitor com o id: 3 foi vendido 4 veze(s)
+O produto placa grafica com o id: 4 foi vendido 4 veze(s)

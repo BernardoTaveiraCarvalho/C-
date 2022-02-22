@@ -1,0 +1,13 @@
+C:\Users\T0121075\source\repos\LerFicheiros\bin\Debug\netcoreapp3.1\LerFicheiros.exe
+C:\Users\T0121075\source\repos\LerFicheiros\bin\Debug\netcoreapp3.1\LerFicheiros.deps.json
+C:\Users\T0121075\source\repos\LerFicheiros\bin\Debug\netcoreapp3.1\LerFicheiros.runtimeconfig.json
+C:\Users\T0121075\source\repos\LerFicheiros\bin\Debug\netcoreapp3.1\LerFicheiros.runtimeconfig.dev.json
+C:\Users\T0121075\source\repos\LerFicheiros\bin\Debug\netcoreapp3.1\LerFicheiros.dll
+C:\Users\T0121075\source\repos\LerFicheiros\bin\Debug\netcoreapp3.1\LerFicheiros.pdb
+C:\Users\T0121075\source\repos\LerFicheiros\obj\Debug\netcoreapp3.1\LerFicheiros.csprojAssemblyReference.cache
+C:\Users\T0121075\source\repos\LerFicheiros\obj\Debug\netcoreapp3.1\LerFicheiros.AssemblyInfoInputs.cache
+C:\Users\T0121075\source\repos\LerFicheiros\obj\Debug\netcoreapp3.1\LerFicheiros.AssemblyInfo.cs
+C:\Users\T0121075\source\repos\LerFicheiros\obj\Debug\netcoreapp3.1\LerFicheiros.csproj.CoreCompileInputs.cache
+C:\Users\T0121075\source\repos\LerFicheiros\obj\Debug\netcoreapp3.1\LerFicheiros.dll
+C:\Users\T0121075\source\repos\LerFicheiros\obj\Debug\netcoreapp3.1\LerFicheiros.pdb
+C:\Users\T0121075\source\repos\LerFicheiros\obj\Debug\netcoreapp3.1\LerFicheiros.genruntimeconfig.cache

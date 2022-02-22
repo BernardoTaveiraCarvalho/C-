@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ler Ficheiros 3", "Ler Ficheiros 3.csproj", "{2FC4D503-402B-466D-BBA9-2E1A13877880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC4D503-402B-466D-BBA9-2E1A13877880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC4D503-402B-466D-BBA9-2E1A13877880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC4D503-402B-466D-BBA9-2E1A13877880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC4D503-402B-466D-BBA9-2E1A13877880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B84808E2-F762-4302-BDF1-46889C10B3C7}
+	EndGlobalSection
+EndGlobal

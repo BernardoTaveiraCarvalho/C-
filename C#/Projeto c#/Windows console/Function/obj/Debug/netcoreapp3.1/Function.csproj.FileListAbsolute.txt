@@ -1,0 +1,13 @@
+C:\Users\T0121075\source\repos\Function\bin\Debug\netcoreapp3.1\Function.exe
+C:\Users\T0121075\source\repos\Function\bin\Debug\netcoreapp3.1\Function.deps.json
+C:\Users\T0121075\source\repos\Function\bin\Debug\netcoreapp3.1\Function.runtimeconfig.json
+C:\Users\T0121075\source\repos\Function\bin\Debug\netcoreapp3.1\Function.runtimeconfig.dev.json
+C:\Users\T0121075\source\repos\Function\bin\Debug\netcoreapp3.1\Function.dll
+C:\Users\T0121075\source\repos\Function\bin\Debug\netcoreapp3.1\Function.pdb
+C:\Users\T0121075\source\repos\Function\obj\Debug\netcoreapp3.1\Function.csprojAssemblyReference.cache
+C:\Users\T0121075\source\repos\Function\obj\Debug\netcoreapp3.1\Function.AssemblyInfoInputs.cache
+C:\Users\T0121075\source\repos\Function\obj\Debug\netcoreapp3.1\Function.AssemblyInfo.cs
+C:\Users\T0121075\source\repos\Function\obj\Debug\netcoreapp3.1\Function.csproj.CoreCompileInputs.cache
+C:\Users\T0121075\source\repos\Function\obj\Debug\netcoreapp3.1\Function.dll
+C:\Users\T0121075\source\repos\Function\obj\Debug\netcoreapp3.1\Function.pdb
+C:\Users\T0121075\source\repos\Function\obj\Debug\netcoreapp3.1\Function.genruntimeconfig.cache

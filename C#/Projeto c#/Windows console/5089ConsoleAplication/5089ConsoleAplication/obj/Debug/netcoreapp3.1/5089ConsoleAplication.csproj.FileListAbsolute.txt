@@ -1,0 +1,13 @@
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\bin\Debug\netcoreapp3.1\5089ConsoleAplication.exe
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\bin\Debug\netcoreapp3.1\5089ConsoleAplication.deps.json
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\bin\Debug\netcoreapp3.1\5089ConsoleAplication.runtimeconfig.json
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\bin\Debug\netcoreapp3.1\5089ConsoleAplication.runtimeconfig.dev.json
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\bin\Debug\netcoreapp3.1\5089ConsoleAplication.dll
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\bin\Debug\netcoreapp3.1\5089ConsoleAplication.pdb
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\obj\Debug\netcoreapp3.1\5089ConsoleAplication.csprojAssemblyReference.cache
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\obj\Debug\netcoreapp3.1\5089ConsoleAplication.AssemblyInfoInputs.cache
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\obj\Debug\netcoreapp3.1\5089ConsoleAplication.AssemblyInfo.cs
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\obj\Debug\netcoreapp3.1\5089ConsoleAplication.csproj.CoreCompileInputs.cache
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\obj\Debug\netcoreapp3.1\5089ConsoleAplication.dll
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\obj\Debug\netcoreapp3.1\5089ConsoleAplication.pdb
+C:\Users\T0121075\Desktop\Projeto c#\5089ConsoleAplication\5089ConsoleAplication\obj\Debug\netcoreapp3.1\5089ConsoleAplication.genruntimeconfig.cache

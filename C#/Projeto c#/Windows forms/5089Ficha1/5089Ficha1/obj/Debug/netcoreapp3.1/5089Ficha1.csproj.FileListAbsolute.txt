@@ -1,0 +1,15 @@
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\bin\Debug\netcoreapp3.1\5089Ficha1.exe
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\bin\Debug\netcoreapp3.1\5089Ficha1.deps.json
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\bin\Debug\netcoreapp3.1\5089Ficha1.runtimeconfig.json
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\bin\Debug\netcoreapp3.1\5089Ficha1.runtimeconfig.dev.json
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\bin\Debug\netcoreapp3.1\5089Ficha1.dll
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\bin\Debug\netcoreapp3.1\5089Ficha1.pdb
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\obj\Debug\netcoreapp3.1\5089Ficha1.csprojAssemblyReference.cache
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\obj\Debug\netcoreapp3.1\_5089Ficha1.Form1.resources
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\obj\Debug\netcoreapp3.1\5089Ficha1.csproj.GenerateResource.cache
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\obj\Debug\netcoreapp3.1\5089Ficha1.AssemblyInfoInputs.cache
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\obj\Debug\netcoreapp3.1\5089Ficha1.AssemblyInfo.cs
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\obj\Debug\netcoreapp3.1\5089Ficha1.csproj.CoreCompileInputs.cache
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\obj\Debug\netcoreapp3.1\5089Ficha1.dll
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\obj\Debug\netcoreapp3.1\5089Ficha1.pdb
+C:\Users\T0121075\Desktop\Projeto c#\5089Ficha1\5089Ficha1\obj\Debug\netcoreapp3.1\5089Ficha1.genruntimeconfig.cache
